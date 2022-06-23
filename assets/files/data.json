@@ -1,0 +1,114 @@
+{
+    "careers": [
+        {
+            "id": 1,
+            "title": "Programming",
+            "introVideo":"5FySFg78cQI",
+            "description": "You’ve always been fascinated by the fact that an entertaining mobile application or sophisticated computer program all boils down to a string of code. How a bunch of letters, numbers and symbols assembled in the perfect order can power an entire software system. This curiosity is what led you to teach yourself some of the basic programming languages and dabble in the art of coding. Now you’re starting to think you could expand on those self-taught skills and pursue an actual programming career. If the scenario above describes you, you’re in luck! There are plenty of programming jobs for you to pursue in the world of technology. So whether you’d like to spend your entire days writing code or you’d like to use your programming knowledge to help drive overall business decisions, keep reading to familiarize yourself with some of the many coding careers out there.",
+            "imageUrl": "https://www.forbes.com/advisor/wp-content/uploads/2022/06/Computer_programmer.jpeg.jpg",
+            "careerPaths": [
+                {
+                    "name": "Mobile App Development",
+                    "channelId": null,
+                    "introVideo":"SW2tT5njHek",
+                    "description": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an 'application-like' experience within a web browser.",
+                    "thumbnailUrl": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/11/02235040/how-to-become-a-mobile-app-developer.png",
+                    "subCareerPaths": [
+                        {
+                            "name": "Android Kotlin for Beginners: Basics and Fundamentals for Android",
+                            "introVideo":"OpQ3VzzgE0g",
+                            "channelId":"https://www.youtube.com/watch?v=VEqhzCFmEQI&list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR",
+                            "description": "Write better Android apps faster with Kotlin. Kotlin is a modern statically typed programming language used by over 60% of professional Android developers that helps boost productivity, developer satisfaction, and code safety.",
+                            "thumbnailUrl": "https://www.freecodecamp.org/news/content/images/size/w2000/2019/10/androiddevelopment.png",
+                            "subCareerPaths": []
+                        },
+                        {
+                            "name": "Flutter App Development",
+                            "introVideo": "fq4N0hgOWzU",
+                            "channelId":"https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ",
+                            "description":"Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase. Flutter transforms the app development process. Build, test, and deploy beautiful mobile, web, desktop, and embedded apps from a single codebase. \nFlutter consists of two important parts:\n\nAn SDK (Software Development Kit): A collection of tools that are going to help you develop your applications. This includes tools to compile your code into native machine code (code for iOS and Android).\nA Framework (UI Library based on widgets): A collection of reusable UI elements (buttons, text inputs, sliders, and so on) that you can personalize for your own needs.\nTo develop with Flutter, you will use a programming language called Dart. The language was created by Google in October 2011, but it has improved a lot over these past years.",
+                            "thumbnailUrl": "https://storage.googleapis.com/cms-storage-bucket/70760bf1e88b184bb1bc.png",
+                            "subCareerPaths": []
+                        },
+                        {
+                            "name": "Beginner Android Programming (Java)",
+                            "introVideo":"bsXA64TWeZg",
+                            "channelId":"https://www.youtube.com/watch?v=tZvjSl9dswg&list=PL_c9BZzLwBRJLm0QETVj_XcN4jRsV4LkR",
+                            "description": "This tutorial has been prepared for the beginners to help them understand basic Android programming. After completing this tutorial you will find yourself at a moderate level of expertise in Android programming from where you can take yourself to next levels.",
+                            "thumbnailUrl": "https://algorand-developer-portal.tryprism.com/static/Posts/2020/10/29%2018:50/102920-Developing_Android_Apps.jpg?w=2220&cmd=resize_then_crop&height=1018&quality=70",
+                            "subCareerPaths": []
+                        },
+                        {
+                            "name": "iOS App Development (Swift)",
+                            "channelId":"https://www.youtube.com/watch?v=xVPGQEHok74&list=PLpZBns8dFbgx0gr68lf-un9EjdmywTu4_",
+                            "description": "iOS Development Tutorial Using Swift provides the basic and advanced concepts of iOS Development. Our iOS Development tutorial is designed for beginners and professionals.",
+                            "thumbnailUrl": "https://credo.academy/img/ios-swiftui-app-development-tutorial-in-xcode-02.jpg",
+                            "subCareerPaths": []
+                        }
+                    ]
+                },
+
+                {
+                    "name": "Web Development",
+                    "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).[1] Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development.",
+                    "thumbnailUrl": "https://ares.decipherzone.com/blog-manager/uploads/banner_3ceec8dc-c260-47d9-a8f8-79dd0ee7ea37.jpg",
+                    "introVideo":"7uJGjbkp0-U",
+                    "channelId":"https://www.youtube.com/watch?v=gQojMIhELvM&list=PLoYCgNOIyGABDU532eesybur5HPBVfC1G",
+                    "subCareerPaths": []
+                }
+
+            ]
+        },
+
+        {
+            "id": 2,
+            "title": "UI/UX",
+            "introVideo":"j-ti4pqTP-Q",
+            "description": "The role of a UI (user interface) designer is often misunderstood. Many professionals confuse the job with UX design. While some overlap exists, they’re two distinct roles.\n\nA UX designer is responsible for the overall look and feel of a product, while a UI designer is solely responsible for the interface. An interface is the point where the user and product meet and interact. An input interface could be a touchscreen, keyboard, mouse, or on/off button. Examples of output interfaces include visual and audio components like screens or earphones.\n\nDigital products like websites and apps have a GUI (graphical user interface). This handles both the input data and output responses between the user and the system.\n\nThe job of the UI designer is to create an interface that’s easy to use and understand. They achieve this with an impressive combination of buttons, menus, search bars, and labels. You may notice a UX/UI designer job title in some organizations, which is the two roles merged into one.\n#Roles and Responsibilities\n\nUI prototyping\nBuild the site or app navigation system\nUser testing\nUnderstanding system flow\nInstalling system shortcuts\nDesign the screen and pages that users interact with\nTranslate UX designer instructions by choosing the right screen elements",
+            "imageUrl": "https://s3.amazonaws.com/tf-nightingale/2021/06/UX-Designer-Career-Path.jpg",
+            "careerPaths": [
+                {
+                    "name": "UI Design",
+                    "channelId": "https://www.youtube.com/watch?v=viNNYye4qG0&list=PLERed4ILxkJ1_kDOXCrEGmB58IsLOiIc3",
+                    "introVideo":"_K06Dni-RE4",
+                    "description": "The user interface (UI) is the space where interactions between humans and machines occur. UI is an integral aspect of user experience (UX) that consists of two major parts: visual design, which conveys the look and feel of a product; and interaction design, which is the functional and logical organization of elements. The goal of user interface design is to create a user interface that makes it easy, efficient, and enjoyable for users to interact with a product. Learn about the different types of UI as well as fundamental design requirements for each type.",
+                    "thumbnailUrl": "https://os-system.com/blog/wp-content/uploads/2022/03/ux-ui-la-gi-cong-viec-cua-mot-ux-designer-1-1.jpg",
+                    "subCareerPaths": []
+                },
+                {
+                    "name": "UX Design",
+                    "channelId": "https://www.youtube.com/watch?v=_lyzy-vChh4&list=PLrtjkLnNjGHvbsas7_YIpkAvGsqkRsn-R",
+                    "introVideo":"SRec90j6lTY",
+                    "description": "A UX designer is someone who understands the customer’s mindset and designs according to their needs. Their primary goal is to enhance the user experience by considering a person’s emotions and attitudes about using a product. The UX designer must establish a logical flow in the product.\n\nRoles and Responsibilities:\n\nPerform user and competitor research Interview users and understand their wants and needs\nCreate product prototypes Develop and test products",
+                    "thumbnailUrl": "https://www.mindinventory.com/blog/wp-content/uploads/2021/11/mobile-ux-design-best-practices.png",
+                    "subCareerPaths": []
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "title": "Digital Marketing",
+            "introVideo":"nU-IIXBWlS4",
+            "description": "Are you looking for a career with variety, excitement, and learning opportunities? If so, you may be wondering if digital marketing is a great career to pursue. You’re in luck because that’s exactly the question we’ll help you answer in this article.\n\nDigital marketing is a great career. This field never even existed a few decades ago. In the 1990s, the internet revolutionized the way we communicate and how businesses reached out to their customers to sell products and services. Today, and in the foreseeable future, any marketing campaign worth its salt is incomplete without digital marketing.The internet is a huge part of our lives, which means digital marketers are always relevant and in demand. \n\nMore businesses = more digital marketers… \n\nBut how is this possible? Do they use traditional marketing? \n\nYes, they do! But does Apple know if their billboard led to a woman named Ashley purchasing their iPhone 12 Pro? Of course not. Digital marketers, however, can determine how an individual became a customer. \n\nNow to the good part. \n\nIf you are wondering how long it takes to become a digital marketer, let us tell you that you don’t have to wait too long to become a digital marketer.\n\nDigital marketing is more about practical skills than theoretical skills. You can begin learning the skills that make successful marketers today through a digital marketing apprenticeship. An apprenticeship means working on real marketing projects under the guidance of a mentor. Having an apprenticeship or two under your belt will give you the leg up on other job candidates.\n\nAdditionally, as a digital marketer, your career can take many different paths. You can become a digital nomad, work as a freelancer, start your own business, or work for a company. Whatever path you decide you can be sure that you’ll constantly be learning and growing as the internet changes and new opportunities and challenges emerge.",
+            "imageUrl": "https://miro.medium.com/max/1170/1*fELDFKQhdgO3c1FhnGvcNw.png",
+            "careerPaths": []
+        },
+        {
+            "id": 4,
+            "title": "Product Management",
+            "introVideo":"lF70OuNWdrM",
+            "description": "If you’ve ever considered a job in product management, you’re not alone. Product manager roles are increasingly coveted positions, with high salaries and ample opportunities for growth. In fact, product management ranks fifth on Glassdoor’s 2019 list of best jobs in America, with over 11,000 job opportunities available.\n\nBut what exactly does a product manager do? And are you up to the task? Below we take a deep dive into the product manager career path so you can decide for yourself. The job sounds interesting, but let’s cut to the chase: What is the earning potential?\n\nA career in product management can be both professionally and financially rewarding. Depending on your experience, skill set and level of responsibility, product managers can expect to earn anywhere from $80,000 to more than $150,000 a year.Product managers are mid-level roles. While you don’t necessarily have to have a direct product management background, you should have professional experience and demonstrable skills in communication, leadership, and strategy.\n\nProduct managers are responsible for the strategy, roadmap, and features of a product. You’ll need to be able to work with cross-functional teams, including UX, engineering, and marketing, to conduct accurate data analysis, forecasting, and market research.\n\nThe role is both strategic and tactical and requires strong leadership, collaboration, and product knowledge.",
+            "imageUrl": "https://postlight.com/wp-content/uploads/2019/10/you-x-ventures-Oalh2MojUuk-unsplash-1.png",
+            "careerPaths": []
+        },
+        {
+            "id": 5,
+            "title": "Networking Specialist",
+            "introVideo":"qiQR5rTSshw",
+            "description": "IT Networking Specialist analyze, troubleshoot and evaluate computer network problems. More advanced IT pros may be responsible for building and designing communication networks as well. They play an important role in maintaining an organization’s network and keeping them safe and secure through both hardware configuration and end-user training. Network specialists and administrators are responsible for day-to-day operations and network architects and engineers design and build local area networks (LANs), wide area networks (WANs), and Intranets. Depending on the size of the company, these roles may be combined.If you can leverage the many valuable certifications out there, if you can learn vendor-agnostic networking and its fundamentals, if you know how to design, build, and bring any network up when it fails, then you are well on your way to a successful career.\n\nAlthough emerging technologies like automation, AI, and ML will likely replace the need for network support or admins, as machines will do the configuration, management, and monitoring, the network professional will always be in high demand. As a network professional, you will be needed to design, build, troubleshoot networks, and, of course, develop and manage the automation",
+            "imageUrl": "https://bmg.bm/wp-content/uploads/2019/11/fd-computer-networking-engineering-technology-1920x1080.jpg",
+            "careerPaths": []
+        }
+    ]
+}
