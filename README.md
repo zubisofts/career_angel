@@ -12,3 +12,6 @@ Google Developers Group (GDG) Aba is a non-profit group in Abia State, Nigeria. 
 Disclaimer: GDG Aba is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg/
 
 ##Screenshots
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
