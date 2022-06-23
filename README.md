@@ -14,4 +14,4 @@ Disclaimer: GDG Aba is an independent group; our activities and the opinions exp
 ##Screenshots
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![]([https://...Dark.png](https://github.com/zubisofts/career_angel/blob/master/assets/files/a67565d3-9285-4efe-bd05-1b5b5b1cec89.jpg?raw=true))  |  ![]([https://...Ocean.png](https://github.com/zubisofts/career_angel/blob/master/assets/files/9c19e077-79db-488e-9c7c-285c94777c7e.jpg?raw=true))
