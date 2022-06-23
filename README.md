@@ -1,16 +1,15 @@
-# career_path
+# Career Angel ✨
 
-A new Flutter project.
+Built with Flutter for you
 
-## Getting Started
+## About This Project
 
-This project is a starting point for a Flutter application.
+This project is a hackerthon event arranged by the GDG Aba for the Google I/O Extended Aba 2022, the project simply guides individuals on their career journey with videos and more. No signup, just open the app and fire up your journey towards greatness 🤓🔥
 
-A few resources to get you started if this is your first Flutter project:
+GDG Aba:
+Google Developers Group (GDG) Aba is a non-profit group in Abia State, Nigeria. We tend to use Google Technologies to touch and change lives in Africa by organizing conferences, schools challenge, meetups and other events that will inspire young developers.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Disclaimer: GDG Aba is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/community/gdg/
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Lab: GDG Aba([https://flutter.dev/docs/get-started/codelab](https://gdg.community.dev/gdg-aba/))
+
