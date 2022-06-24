@@ -8,7 +8,7 @@ class AppTheme {
   static ThemeData get darkTheme {
     return ThemeData(
             colorScheme: darkColorScheme,
-            fontFamily: GoogleFonts.firaSans().fontFamily)
+            fontFamily: GoogleFonts.notoSans().fontFamily)
         .copyWith(
             pageTransitionsTheme: const PageTransitionsTheme(
       builders: {

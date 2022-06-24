@@ -5,8 +5,15 @@ import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 class IntroClip extends StatefulWidget {
   final String clipId;
+  final VoidCallback onEnterFullScreen;
+  final VoidCallback onExitFullScreen;
 
-  const IntroClip({Key? key, required this.clipId}) : super(key: key);
+  const IntroClip(
+      {Key? key,
+      required this.clipId,
+      required this.onEnterFullScreen,
+      required this.onExitFullScreen})
+      : super(key: key);
 
   @override
   State<IntroClip> createState() => _IntroClipState();
@@ -36,15 +43,14 @@ class _IntroClipState extends State<IntroClip> {
   @override
   Widget build(BuildContext context) {
     return YoutubePlayerBuilder(
-      onEnterFullScreen: (){
-
-      },
-        onExitFullScreen: (){
-
+        onEnterFullScreen: () {
+          widget.onEnterFullScreen();
+        },
+        onExitFullScreen: () {
+          widget.onExitFullScreen();
         },
         player: YoutubePlayer(
           controller: _controller,
-
         ),
         builder: (context, player) {
           return player;
